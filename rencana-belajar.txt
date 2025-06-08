@@ -1,4 +1,5 @@
 RENCANA BELAJAR KEDEPANNYA
 - Belajar type script
-- Belajar njs
--
+- Belajar backend
+*node js
+*API
