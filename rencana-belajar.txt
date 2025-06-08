@@ -1,0 +1,5 @@
+RENCANA BELAJAR KEDEPANNYA
+- Belajar type script
+- Belajar backend
+*node js
+*API
