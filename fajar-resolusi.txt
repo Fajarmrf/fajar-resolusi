@@ -1,0 +1,4 @@
+FAJAR RESOLUSI
+- Saya ingin konsisten untuk belajar ngoding
+- Harus bisa menguasai framework js dalam 1 bulan
+- Bisa membuat web app menggunakan react 
